@@ -2,7 +2,7 @@
 Danylo Tiptiuk 56140
 
 
-Sklep internetowy (React + Redux).
+Sklep internetowy (React).
 
 Dane będą pobierane z pliku.
 
