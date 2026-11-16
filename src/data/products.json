@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Smartfon XYZ",
+    "category": "elektronika",
+    "price": 1999,
+    "promoPrice": 1499,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&q=80",
+    "description": "Nowoczesny smartfon z dużym ekranem.",
+    "stock": 10,
+    "rating": 4.5,
+    "reviews": []
+  },
+  {
+    "id": 2,
+    "name": "Krzesło biurowe",
+    "category": "meble",
+    "price": 499,
+    "promoPrice": null,
+    "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?w=400&q=80",
+    "description": "Wygodne krzesło do pracy.",
+    "stock": 0,
+    "rating": 4.0,
+    "reviews": []
+  },
+  {
+    "id": 3,
+    "name": "Gra RPG",
+    "category": "gry komputerowe",
+    "price": 149,
+    "promoPrice": 99,
+    "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=400&q=80",
+    "description": "Epicka przygoda w świecie fantasy.",
+    "stock": 5,
+    "rating": 4.8,
+    "reviews": []
+  },
+  {
+    "id": 4,
+    "name": "Wiertarka",
+    "category": "narzędzia",
+    "price": 299,
+    "promoPrice": null,
+    "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=400&q=80",
+    "description": "Mocna wiertarka udarowa.",
+    "stock": 3,
+    "rating": 4.2,
+    "reviews": []
+  }
+]
